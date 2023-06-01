@@ -1,0 +1,7 @@
+{
+  "name": "@myorg/someapp",
+  "scripts": {
+    "start": "pilet debug"
+  } 
+}
+ 
