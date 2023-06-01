@@ -1,7 +1,0 @@
-{
-  "schemaVersion": "v2",
-  "$schema": "https://docs.piral.io/schemas/pilet-v0.json",
-  "piralInstances": {
-    "appshell": {}
-  }
-}
